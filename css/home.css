@@ -1,0 +1,49 @@
+.blogging-post-container {
+    width: 100%;
+    padding: 40px 70px;
+    box-shadow: 0px 5px 20px 2px #e3e3e3;
+    border-radius: 10px;
+}
+
+.form-control {
+    margin: 30px 0px;
+}
+
+.btn-Publish {
+    background-color: #7711f7;
+    color: #fff;
+}
+
+.btn-Publish:hover {
+    color: #fff;
+}
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    /* width: 50%; */
+    width: 100%;
+    padding: 40px 70px;
+    box-shadow: 0px 5px 20px 2px #e3e3e3;
+    border-radius: 10px;
+
+}
+
+.userimg {
+    width: 100px;
+    height: 100px;
+}
+
+.content {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.delete {
+    text-decoration: none;
+}
+
+.cardblog {
+    display: flex;
+    flex-direction: row;
+}
